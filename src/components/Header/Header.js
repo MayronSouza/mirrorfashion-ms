@@ -13,7 +13,7 @@ const Header = () => {
         Nenhum item na sacola de compras
       </p>
 
-      <nav className="menu opcoes">
+      <nav className="menu-opcoes">
         <ul>
           <li><a href="#">Sua Conta</a></li>
           <li><a href="#">Lista de Desejos</a></li>

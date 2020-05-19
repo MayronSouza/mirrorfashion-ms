@@ -1,15 +1,10 @@
-body {
+/* body {
   color: #333;
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
-}
+} */
 
 header {
   position: relative;
-}
-
-.container {
-  margin: 0 auto;
-  width: 940px;
 }
 
 .sacola {
@@ -50,38 +45,4 @@ header {
 
 .menu-opcoes a:active {
   color: #867cd6;
-}
-
-.busca {
-  float: left;
-
-  margin-right: 10px;
-  width: 230px;
-  
-  background-color: #cdcdcd;
-  font-weight: bold;
-  text-transform: uppercase;
-
-  border-top-left-radius: 4px;
-  border-top-right-radius: 4px;
-}
-
-.busca input[type=search] {
-  width: 170px;
-}
-
-.busca button {
-  background-image: url(../../assets/img/busca.png);
-  background-repeat: no-repeat;
-  border: none;
-
-  width: 20px;
-  height: 20px;
-
-  text-indent: -9999px;
-}
-
-.busca h2,
-.busca form {
-  margin: 10px;
 }
